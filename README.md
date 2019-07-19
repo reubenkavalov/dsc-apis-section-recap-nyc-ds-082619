@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 17 and why they'll be important to you as a data scientist.
+In this section, you learned about the request/response cycle and using APIs. APIs are critical to software development, and they can be powerful tools for gathering data for data scientists.
 
 ## Objectives
 You will be able to:
