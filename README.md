@@ -14,8 +14,8 @@ You will be able to:
 
 APIs can provide access to a wide range of data that you might need as a data scientist. Key takeaways:
 * While there are many other kinds of APIs, as a data scientist, you'll typically be working with web APIs
-* The Requests library in Python is a great starting point for making http(s) requests to APIs
-* The two most common http methods you will use when accessing APIs are GET (to retrieve information) and POST (to send information).
-* Typically you'll need to authenticate in some manner with most APIs - one common methods for doing so is using OAuth
+* The Requests library in Python is a great starting point for making HTTP(s) requests to APIs
+* The two most common HTTP methods you will use when accessing APIs are GET (to retrieve information) and POST (to send information).
+* Typically you'll need to authenticate in some manner with most APIs - one common method for doing so is using OAuth
 
 
